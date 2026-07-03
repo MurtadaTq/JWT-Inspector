@@ -37,7 +37,7 @@ JWT Inspector allows you to safely decode JWT headers and payloads without sendi
 Clone the repository:
 
 ```bash
-git clone https://github.com/DevDebo/JWT-Inspector.git
+git clone https://github.com/MurtadaTq/JWT-Inspector.git
 ```
 
 Enter the project directory:
